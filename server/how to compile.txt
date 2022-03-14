@@ -1,0 +1,3 @@
+execute build.sh or build.bat
+
+environment: jdk 8, python 3
